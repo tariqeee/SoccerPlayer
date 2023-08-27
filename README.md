@@ -49,6 +49,10 @@ conda activate SoccerPlayer
 pip install ultralytics
 
 ```
+<div align="center">
+<img align="center" src="/Results/T1.jpg" alt="5 Footballinfo Submodules" width = 640px height = 600px>
+</div>
+
 
 4th [pip](https://pip.pypa.io/en/stable/) install PyTorch library  on your machine 
 ```bash
