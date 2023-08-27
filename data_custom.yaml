@@ -1,0 +1,6 @@
+train: C:\Users\TARIQ-PC\Desktop\SoccerPlayer\datasets\SoccerPlayer\train
+val: C:\Users\TARIQ-PC\Desktop\SoccerPlayer\datasets\SoccerPlayer\val
+
+nc: 2
+
+names: ["football", "player"]
